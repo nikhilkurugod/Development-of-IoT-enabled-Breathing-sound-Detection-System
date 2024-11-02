@@ -16,3 +16,8 @@ The above figure represents block diagram of the project.
  3. Post analysis: It includes the process where the .wav file is downloaded from the http
  server and then MATLAB is used to perform the digital signal processing to obtain clean
  lung sound and plot it using inbuilt MATLAB functions.
+
+# Circuit Diagram
+
+![image](https://github.com/user-attachments/assets/1aa84b74-9f72-4f5d-8016-3d4f2c788400)
+
