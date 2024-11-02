@@ -21,3 +21,11 @@ The above figure represents block diagram of the project.
 
 ![image](https://github.com/user-attachments/assets/1aa84b74-9f72-4f5d-8016-3d4f2c788400)
 
+# Results
+
+![image](https://github.com/user-attachments/assets/3a0c7c6b-0a06-4ffc-88bd-6ea0bb768037)
+
+ a. Waveform of recorded sound from INMP441 in frequency domain.
+ b. Waveform of filtered sound in frequency domain.
+
+
